@@ -1,1 +1,1 @@
-# terrafor-ec2-ami-name
+# terraform-ec2-by-ami-name
